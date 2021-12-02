@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ArnaudProvoost
+- 👀 I’m interested in application development
+- 🌱 I’m currently learning Toegepaste informatica at Thomas More
+- 📫 How to reach me:
+- arnaud.provoost@student.thomasmore.be
