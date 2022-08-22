@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArnaudProvoost
 - 👀 I’m interested in application development
-- I have a professional bachelor's degree in Toegepaste informatica
+- 🌱 I have a professional bachelor's degree in Toegepaste informatica
 - 🌱 I’m currently going for my master in Computer Science at VUB
 - 📫 How to reach me:
 - arnaud.david.b.provoost@vub.be
