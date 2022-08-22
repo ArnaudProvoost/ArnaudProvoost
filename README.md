@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ArnaudProvoost
 - 👀 I’m interested in application development
-- 🌱 I’m currently learning Toegepaste informatica at Thomas More
+- I have a professional bachelor's degree in Toegepaste informatica
+- 🌱 I’m currently going for my master in Computer Science at VUB
 - 📫 How to reach me:
-- arnaud.provoost@student.thomasmore.be
+- arnaud.david.b.provoost@vub.be
